@@ -3,11 +3,11 @@ Bot that reminds you to mark attendance on telegram when a lesson is available.
 
 # How do i use this this bot?
 
-## [Prepare a telegram Bot, get the Bot Token] (https://core.telegram.org/bots/tutorial "Make your own bot!")
+## [Prepare a telegram Bot, get the Bot Token](https://core.telegram.org/bots/tutorial "Make your own bot!")
 Firstly, go to @botfather on telegram, and create your very own bot.
 Gather your Bot Token.
 
-## [Prepare a telegram group chat, Ensure your bot has privileges, get the chatID] ((https://core.telegram.org/bots/tutorial "Make your own bot!")
+## [Prepare a telegram group chat, Ensure your bot has privileges, get the chatID](https://core.telegram.org/bots/tutorial "Make your own bot!")
 Just add the bot to the chat, and make sure that it has the privilege of sending messages
 Get the ChatID for the chat.
 
